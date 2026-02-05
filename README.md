@@ -126,5 +126,33 @@ The application was tested manually by:
 
 ---
 
+## 📂 Project Structure
+
+personal-finance-manager/
+│
+├── main.py  
+│   Entry point of the application.  
+│   Handles user menu and program flow.
+│
+├── expense.py  
+│   Contains functions related to expense operations such as:
+│   - Adding expenses
+│   - Viewing summaries
+│   - Exporting data
+│
+├── expenses.csv  
+│   Stores all expense records entered by the user.
+│
+├── category_summary.csv  
+│   Stores category-wise expense summaries exported by the program.
+│
+├── screenshots/  
+│   Contains screenshots showing the working of the application.
+│
+└── README.md  
+    Project documentation.
+
+---
+
 ## Author
 Sadaf 
