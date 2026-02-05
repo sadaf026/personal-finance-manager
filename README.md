@@ -1,10 +1,11 @@
 # Personal Finance Manager
 
 ## Project Overview
-The Personal Finance Manager is a Python-based console application that helps users track their daily expenses. 
-Users can add expenses, view all expenses, calculate total spending, view category-wise summaries, and generate monthly expense reports.
+Personal Finance Manager is a Python-based console application developed as part of an internship task.
+The project helps users manage their daily expenses by allowing them to record, view, and analyze spending data.
 
-This project is created as part of an internship task to demonstrate basic Python programming, file handling, and menu-driven applications.
+The application stores expense data in CSV files, making it lightweight and easy to use without requiring a database.
+It provides clear summaries such as category-wise and monthly expense reports to help users understand their spending habits.
 
 ---
 
@@ -24,6 +25,20 @@ This project is created as part of an internship task to demonstrate basic Pytho
 - Command Line Interface (CLI)
 
 ---
+
+## Technical Details
+
+- Programming Language: Python
+- Data Storage: CSV files
+- Concepts Used:
+  - File handling
+  - Functions and modular programming
+  - Lists and dictionaries
+  - Date handling
+  - User input validation
+
+---
+
 
 ## Setup Instructions
 Follow the steps below to run the project on your system:
@@ -151,6 +166,16 @@ personal-finance-manager/
 │
 └── README.md  
     Project documentation.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Learned how to build a complete Python project from scratch
+- Improved understanding of file handling using CSV files
+- Practiced writing clean, modular, and reusable code
+- Gained experience in documenting a project professionally
+- Understood how to use GitHub for version control and project submission
 
 ---
 
