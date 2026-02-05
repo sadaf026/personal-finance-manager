@@ -84,5 +84,23 @@ The application was tested manually by:
 - Add data visualization charts
 - Support database storage instead of CSV
 
+  ---
+
+  ## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Add Expense
+![Add Expense](screenshots/add_expense.png)
+
+### Category Summary
+![Category Summary](screenshots/category_summary.png)
+
+### Export CSV
+![Export CSV](screenshots/export_csv.png)
+
+---
+
 ## Author
 Sadaf 
