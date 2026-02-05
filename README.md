@@ -102,5 +102,29 @@ The application was tested manually by:
 
 ---
 
+## 🚀 How to Run the Project
+
+### Prerequisites
+- Python 3.10 or higher installed
+- Command Prompt / PowerShell
+
+### Steps to Run
+1. Download or clone the repository
+2. Open Command Prompt / PowerShell
+3. Navigate to the project folder:
+    cd Desktop\personal_finance_manager
+4. Run the program:
+   
+### Menu Options
+1. Add Expense
+2. View Expenses
+3. View Total Expense
+4. View Category-wise Summary
+5. View Monthly Summary
+6. Export Category Summary
+7. Exit
+
+---
+
 ## Author
 Sadaf 
