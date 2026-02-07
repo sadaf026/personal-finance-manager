@@ -103,17 +103,20 @@ The application was tested manually by:
 
   ## Screenshots
 
+## Screenshots
+
 ### Main Menu
-![Main Menu](Screenshots(58).png)
+![Main Menu](screenshots/Screenshot%20(58).png)
 
 ### Add Expense
-![Add Expense](Screenshots(59).png)
+![Add Expense](screenshots/Screenshot%20(59).png)
 
 ### Category Summary
-![Category Summary](Screenshots(60).png)
+![Category Summary](screenshots/Screenshot%20(60).png)
 
 ### Export CSV
-![Export CSV](Screenshots(202906).png)
+![Export CSV](screenshots/Screenshot%202026-02-05%20202906.png)
+
 
 ---
 
