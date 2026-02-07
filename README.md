@@ -106,16 +106,16 @@ The application was tested manually by:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/Screenshot%20(58).png)
+![Main Menu](screenshots/main_menu.png)
 
 ### Add Expense
-![Add Expense](screenshots/Screenshot%20(59).png)
+![Add Expense](screenshots/add_expense.png)
 
 ### Category Summary
-![Category Summary](screenshots/Screenshot%20(60).png)
+![Category Summary](screenshots/category_summary.png)
 
 ### Export CSV
-![Export CSV](screenshots/Screenshot%202026-02-05%20202906.png)
+![Export CSV](screenshots/export_csv.png)
 
 
 ---
